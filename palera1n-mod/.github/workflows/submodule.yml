@@ -1,0 +1,29 @@
+name: Update Submodules
+
+on:
+  schedule: 
+    - cron: 0 0 * * *
+
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: Update Submodules
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        submodules: true
+
+    - name: Update submodules
+      run: |
+        cd ramdisk
+        git pull origin main
+        cd ..
+
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update submodules

@@ -1,0 +1,81 @@
+ActivationState: Unactivated
+BasebandActivationTicketVersion: V2
+BasebandCertId: 3840149528
+BasebandChipID: 9572577
+BasebandKeyHashInformation: 
+ AKeyStatus: 2
+ SKeyHash: u+/tcCwvaQ+1Y9t40I4yegCEmB28mALlaROhaIVGBWo=
+ SKeyStatus: 0
+BasebandMasterKeyHash: 8CB15EE4C8002199070D9500BB8FB183B02713A5CA2A6B92DB5E75CE15536182
+BasebandRegionSKU: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+BasebandSerialNumber: Ce+DQQ==
+BasebandStatus: BBInfoAvailable
+BasebandVersion: 9.61.00
+BluetoothAddress: 80:ed:2c:ad:56:15
+BoardId: 6
+BrickState: true
+BuildVersion: 19H117
+CPUArchitecture: arm64
+CarrierBundleInfoArray[0]: 
+CertID: 3840149528
+ChipID: 32768
+ChipSerialNo: Ce+DQQ==
+DeviceClass: iPhone
+DeviceColor: #272728
+DeviceName: iPhone
+DieID: 3523153951724
+EthernetAddress: 80:ed:2c:ad:55:e4
+FirmwareVersion: iBoot-7459.140.15
+FusingStatus: 3
+HardwareModel: N66AP
+HardwarePlatform: s8000
+HasSiDP: true
+HostAttached: true
+InternationalMobileEquipmentIdentity: 355728071985409
+MLBSerialNumber: F3Y61150GXTG35WD
+MobileEquipmentIdentifier: 35572807198540
+MobileSubscriberCountryCode: 
+MobileSubscriberNetworkCode: 
+ModelNumber: MKUQ2
+NonVolatileRAM: 
+ auto-boot: dHJ1ZQ==
+ backlight-level: MTUyNw==
+ backlight-nits: MHgwMGEwZWEyZQ==
+ boot-args: 
+ boot-breadcrumbs: MzAwMGYoNmI3MjZlNmMpIDQwMDYwMDA0IDMwMDExIDMwMDA3IDxDT01NSVQ+IDMwMDBjKDYzNjg2NzMgMzAwMGQgMTAwMDIgPENPTU1JVD4gPEJPT1Q+IDFjMDAyYigyMDA2ZDAwKSAyMDAxMiAzMDAwYygwKSAzMDAwZCA0MDAzOCgwKSA0MDAzOShjZTAwMDApIDQwMDNhKDApIDMwMDBmKDY0NzQ3MjY1KSAzMDAwYyg2NDc0NzI2NSkgNDAwMjkgMzAwMGQgMzAwMTAgMzAwMGYoNjk3Mzc5NzMpIDMwMDBjKDY5NzM3OTczKSAzMDAwZCAzMDAxMCAzMDAwZig3NDcyNzM3NCkgMzAwMGMoNzQ3MjczNzQpIDMwMDBkIDMwMDEwIDMwMDBmKDZiNzI2ZTZjKSA0MDA2MDAwNCAzMDAxMSAzMDAwNyA8Q09NTUlUPiA8Qk9PVD4gMWMwMDJiKDIwMDZkMDApIDIwMDEyIDMwMDBjKDApIDMwMDBkIDQwMDM4KDApIDQwMDM5KGNlMDAwMCkgNDAwM2EoMCkgMzAwMGYoNjQ3NDcyNjUpIDMwMDBjKDY0NzQ3MjY1KSA0MDAyOSAzMDAwZCAzMDAxMCAzMDAwZig2OTczNzk3MykgMzAwMGMoNjk3Mzc5NzMpIDMwMDBkIDMwMDEwIDMwMDBmKDc0NzI3Mzc0KSAzMDAwYyg3NDcyNzM3NCkgMzAwMGQgMzAwMTAgMzAwMGYoNmI3MjZlNmMpIDQwMDYwMDA0IDMwMDExIDMwMDA3IDxDT01NSVQ+IA==
+ bootdelay: MA==
+ com.apple.System.tz0-size: MHhFMDAwMDA=
+ fm-spstatus: WUVT
+ obliteration: U2FmZU9ibGl0IGRvbmUgQDE2NzA0NzI0NDEsIEVycjo4OSwgQnk6PHVua25vd24+IFtnRjogMHgwMDAwMDAwMDA0MDAwMDAwXQ==
+PairRecordProtectionClass: 4
+PartitionType: GUID_partition_scheme
+PasswordProtected: false
+PkHash: 5OQIGNymupBn16zMKPujMp3562XDnNFkULy+gshbERM=
+ProductName: iPhone OS
+ProductType: iPhone8,2
+ProductVersion: 15.7.1
+ProductionSOC: true
+ProtocolVersion: 2
+ProximitySensorCalibration: T00EAA0KPzgQA7wCsARZALwCOAACAP+KGwMDAM524gLuAkoAaekmAdNdmhwAAAAA4QBkAAECAABJAAAAAAAAAAAAAAAAAAAA
+RegionInfo: LL/A
+SIMStatus: kCTSIMSupportSIMStatusNotInserted
+SIMTrayStatus: kCTSIMSupportSIMTrayInsertedNoSIM
+SerialNumber: F2LRFCKCGRWV
+SoftwareBehavior: EQAAAAAAAAAAAAAAAAAAAA==
+SoftwareBundleVersion: 
+SupportedDeviceFamilies[1]: 
+ 0: 1
+TelephonyCapability: true
+TimeIntervalSince1970: 1670923576.939264
+TimeZone: America/Chicago
+TimeZoneOffsetFromUTC: -21600.000000
+TrustedHostAttached: true
+UniqueChipID: 3523153951724
+UniqueDeviceID: 729151ff4d0b8c9c5f10183d2504ad9b57c05fc6
+UntrustedHostBUID: 1077CB09-D7A6-4C23-8290-37FF9ED68CE8
+UseRaptorCerts: true
+Uses24HourClock: false
+WiFiAddress: 80:ed:2c:ad:55:e3
+WirelessBoardSerialNumber: 62532703AD
+kCTPostponementInfoPRLName: 0
+kCTPostponementStatus: kCTPostponementStatusReady
