@@ -70,4 +70,4 @@ Mod credits:
 - @edwin170: Some code inspired from [dualboot-ios-15-with-14-script](https://github.com/edwin170/dualboot-ios-15-with-14-script/)'s repo
 - @kitty915: Modified palera1n script to automate bypass and added instructions in the readme. 
 - @ios_euphoria: GUI Design
-- @debbeddebbed: SSHRD tool. Super handy ssh ramdisking.
+- @dedbeddedbed: SSHRD tool. Super handy ssh ramdisking.
